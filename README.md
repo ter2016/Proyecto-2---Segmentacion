@@ -31,8 +31,8 @@ Siguiendo una lógica de pasos en secuencia, en este proyecto se aplicaron las s
   - Looker Studio.
     
 ## Archivos y Links de acceso
-  - Repositorio: PresentacionResultados.pptx  https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/PresentacionResultados.pptx
-  - Repositorio: Dashboard-view.pdf  https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Dashboard-view.pdf
+  - Repositorio: PresentacionResultados.pptx  https://github.com/ter2016/Proyecto-2---Segmentacion/blob/main/PresentacionResultados.pptx
+  - Repositorio: links_acceso.docx  https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Dashboard-view.pdf
   - Google Spreadsheets: https://docs.google.com/spreadsheets/d/1pUQ2nCTSK74d44YwZX4RjoCiPYc8cf4OuoX_WjLquAk/edit?usp=sharing
   - Google Slides: https://docs.google.com/presentation/d/1am9B8NsLU9A0sI_OD86zthpVVgb0tJpW/edit?usp=sharing&ouid=118042206371603675362&rtpof=true&sd=true
     
