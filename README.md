@@ -27,7 +27,7 @@ Siguiendo una lógica de pasos en secuencia, en este proyecto se aplicaron las s
   - Presentacion de resultados con las partes interesadas.
 
 ## Base de Datos.
-Se trabajo con dos tablas (encontradas en el archivio de excel):
+Se trabajo con tres tablas (encontradas en el archivio de excel):
   - Clientes. Informacion demografica de los clientes.
   - Transacciones. Informacion de la transacciones tal como fecha y su tipo de transaccion.
   - Resumen_compras. Montos gastado por usuario y categorias de productos.
