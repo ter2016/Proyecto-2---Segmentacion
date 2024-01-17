@@ -3,6 +3,7 @@ Este proyecto se centra en analizar las ventas y segmentar la base de clientes m
 Esta estrategia proporcionará a la empresa una ventaja competitiva clave al brindar un profundo entendimiento del comportamiento de compra de sus clientes y permitirá la toma de decisiones estratégicas basadas en datos.
 Se busca obtener:
 
+  - Generacion de campos adicionales.
   - Union de tablas y generacion de tablas auxiliares.
   - Generacion de tablas dinamicas y graficas para el analisis exploratorio.
   - Medidas de tendencia central e histograma.
@@ -20,15 +21,29 @@ En el archivo de powert point encontraras la presentacion de los resultados y re
 ## Proceso de trabajo.
 Siguiendo una lógica de pasos en secuencia, en este proyecto se aplicaron las siguientes fases:
   - Procesar y preparar la limpieza de datos.
-  - Hacer un analisis exploratorio.
+  - Realizar analisis exploratorio.
   - Aplicar tecnica de analisis.
-  - Resumir informacion en un dashboard.
+  - Resumir informacion en dashboard.
   - Presentacion de resultados con las partes interesadas.
+
+## Base de Datos.
+Se trabajo con dos tablas (encontradas en el archivio de excel):
+  - Clientes. Informacion demografica de los clientes.
+  - Transacciones. Informacion de la transacciones tal como fecha y su tipo de transaccion.
+  - Resumen_compras. Montos gastado por usuario y categorias de productos.
 
 ## Herramientas utilizadas.
   - Google Sheets.
   - Google Slides.
   - Looker Studio.
+
+
+## Imagenes de Resultados:
+![](https://github.com/ter2016/Proyecto-2---Segmentacion/blob/main/Imgs/D_Mapa%20de%20calor%20por%20cohort.jpg)
+![](https://github.com/ter2016/Proyecto-2---Segmentacion/blob/main/Imgs/D_Clientes.jpg)
+![](https://github.com/ter2016/Proyecto-2---Segmentacion/blob/main/Imgs/D_Transacciones_Ventas.jpg)
+![](https://github.com/ter2016/Proyecto-2---Segmentacion/blob/main/Imgs/D_Analisis_RFM.jpg)
+
     
 ## Archivos y Links de acceso
   - Repositorio: PresentacionResultados.pptx  https://github.com/ter2016/Proyecto-2---Segmentacion/blob/main/PresentacionResultados.pptx
